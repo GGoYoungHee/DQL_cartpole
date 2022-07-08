@@ -6,5 +6,5 @@
 - 하지만, 문제가 생겼다. 추천 시스템과 관련한 데이터가 나에게는 없었고, 크롤링까지도 생각해보았지만, 다른 일도 갑자기 많이 생겨서 그렇게까지 하지는 못했다. 그래서 우선은 강화학습이 많이 사용되는 게임 분야(Cartpole)의 코드들만 구현해보았고, baseline과 DQN 모두 구현해보았다!
 
 ## What is Cartpole?
-![image](https://user-images.githubusercontent.com/77769026/177915238-bf7734ee-875f-4e12-87e0-32ed69229993.png)
+![gif](https://jonghyunho.github.io/assets/img/posts/20200505/cartpole_episode_100.gif)
 
