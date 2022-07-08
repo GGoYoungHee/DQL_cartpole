@@ -7,4 +7,11 @@
 
 ## What is Cartpole?
 ![image](https://jonghyunho.github.io/assets/img/posts/20200505/cartpole_episode_100.gif)
+1. 마찰이 없는 track에 cart가 하나 있습니다. 
+2. Cart는 pole 하나가 세워져 있고, cart에 힘을 가해 
+pole이 넘어지지 않도록 조작합니다. 
+3. cart에 +1 혹은 -1의 힘을 가할 수 있습니다. 
+4. Pole이 제대로 세워져 있으면 매 time-step 마다
+ +1의 보상을 받습니다. 
+![image](https://user-images.githubusercontent.com/77769026/177915673-cd5e437a-c8d0-4102-ae5e-20aadeb8a319.png)
 
